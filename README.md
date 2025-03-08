@@ -27,6 +27,7 @@ This repository contains comprehensive documentation about various aspects of so
    - Best Practices
 
 3. [Enterprise Software Architecture](03_enterprise_software_architecture.md)
+
    - Enterprise vs Software Architects
    - Key Components
    - Architecture Frameworks
@@ -35,6 +36,14 @@ This repository contains comprehensive documentation about various aspects of so
    - Best Practices
    - Challenges and Solutions
    - Emerging Trends
+
+4. [Important Skills](05_important_skills.md)
+   - Design and Architecture Fundamentals
+   - Decision Making Skills
+   - Simplification Techniques
+   - Modern Development Practices
+   - Soft Skills
+   - Continuous Learning
 
 ## Purpose
 
